@@ -14,6 +14,9 @@ The final model consists of only three convolution layers where the first two we
 ## Test Results
 The results can be view in the report pdf.
 
+## Trained Model
+The trained model was too large for a submission so it can be retreived from my google drive at:
+https://drive.google.com/open?id=1RFbTk7a_yej0Q8t0gU3QOmZDLz3xUZ1y
 
 ## Authors
 
